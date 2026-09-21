@@ -1,1 +1,10 @@
-
+- Api call szinten még semmi nincs feltöltve
+- vannak már kész algoritmusok, de a cél az lenne, hogy együtt jöjjünk rá és együtt fejlődjünk
+- Ezekből a kis quant modellekből (shellekből) épülnek fel a pypline-ok amik ponterekkel (8-10 darab) mutatják a shellek adott sorrrendjét.
+- béta verzió egyelőre SANDBOX tesztadaton kipróbálni és ledokumentálni: több primitív + pár bonyolultabb (pl. kevert frekvenciás modellek)
+- Az adatshell 85%-ka kész, működő refresh button
+- 15% pedig majd a katalógus sémával fog jönni (az adat eezeknél nem végleges és fel kell még dolgozni ebben determinisztikus modellek lesznek majd)
+- Rho->aggregálás->azonos formátum->hiányzó adatok kezelése-> odaadjuk az algoritmusoknak
+- Filtercontext -> két elem amit le kell ütni -> dependenciagráf- > hogyan tudjuk kielégíteni (deployolni) a buisness question-t
+- Kész és ledokumentált -> kód + riport tamásnak -> beviszi az API call-okban -> egyelőre 1-1 UI request egyesével. (Quant repoba commitokhoz, hogy követhető legyen).
+- ma délután jön egy cath-up Ivántól, hogy pontosan mi van még és hogyan -> ezt nagyon alaposan át kell nézni és visszamondani majd koncepció szinten.
