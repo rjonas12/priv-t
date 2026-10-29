@@ -1,0 +1,22 @@
+- CDS: mik a driverek? lehet-e szintetikusan szimuulálni.
+- szentiment trader <-> negyed évesekből dolgozo
+- Tamás - Iván feladat: adatelőfizetésről beszélni (Erre kell egy issue githubon)
+- single equity forecast
+- Tamás ötlete
+- Friss, story driven cég: jobban kitett
+- Mekkora az upside mekkora risk mellett?
+- Adatok: price, bond, CDS, financials, fundamentals -> modelling / equity
+- BIS előadást újra beszéljük majd át.
+- horizont: 18 hónaposra bővíthető.
+- capex valahol bukta lesz, hogy lehet lekereskedni
+- 10 M USD nem olyan sok: mi olyan száraz, hogy not scalable?
+- Ábrák átnézése
+- Mi hajthat egy esetleges tail risk hedge-t.
+- Kifizetés függvénye: put spread
+- El kell gondolkodni: capex: long, opex: short
+- Döntések: 
+      - 5M USD: játszható + % M USD margin, nincs margin depth
+      - nincs OTC és CDS egyelőre, de drivereken keresztül vagy hova spilloverezik lekereskedhető?
+- Legközelebb Marton (??) modell egyenlet felírva a táblára kézzel kiszámolni.
+- Mik a gateaway-ek?
+- A platformnak olyannak kell lenni, hogy beessenek új ötletek is, ne csak a saját ötletekből induljunk ki (monitoring)
