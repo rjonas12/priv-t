@@ -1,1 +1,20 @@
-
+- Az egész frameworkre: mindenre legyen meg az alap és majd utána fejlesztünk és haladunk az egyre komplexebb felé
+- van végtelen assett
+- More legs: mi alapján devirzifikálok. nagyon nagy propléma. itt a perzisztenséget kell megfogni, későbbi fejlesztés lehetne.
+- Benchmark: lehetne ETF is.
+- lehetne egy vállalat értékelő modul
+- forecast: milyen makropályák? conditional trajektóriák. HOgyan lesz a forecast.
+- Mekkora valószínűséggel érünk meg.
+- Akkor zárok, hogy a neglectable, hogy ebbe a valószínűségbe beesek.
+- Fundamentális-e a drawndown: vizsgálni kell
+- Mik a nagy directional driverek?
+- Conditional pályák
+- feltételes trajektória pályák mint
+- Hogyan állítom be a stoplost (időfüggő).
+- risk appetitive: pl. 0.95 (mi ez?) mi a tolerable risk.
+- nem jó a drawdown
+- Hogyan kalibráljuk a risket -> checklist, hogy hogyan parametrizáljunk, hogyan lesz a kvalitatívból kvantitatív.
+- Invalidáció: pl lánc: credit risk -> bond -> equity -> makro. Minden elemnél, hogy mik az invalidációs pontok.
+- No trade: ha valami nem éri meg / nincs akkora upside
+- Entry tigger: realizáltból sose lesz jó
+- - alacsony likviditás: price impact.
